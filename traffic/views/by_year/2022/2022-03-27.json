@@ -1,11 +1,11 @@
 {
-  "timestamp" : "2022-03-27T08:22:39Z",
-  "count" : 4,
-  "count_minmax" : [ 0, 4 ],
+  "timestamp" : "2022-03-28T01:43:27Z",
+  "count" : 13,
+  "count_minmax" : [ 0, 13 ],
   "count_prev_day_inc" : 5,
   "count_prev_day_dec" : 0,
-  "uniques" : 1,
-  "uniques_minmax" : [ 0, 1 ],
+  "uniques" : 3,
+  "uniques_minmax" : [ 0, 3 ],
   "uniques_prev_day_inc" : 2,
   "uniques_prev_day_dec" : 0
 }
