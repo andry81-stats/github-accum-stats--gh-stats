@@ -1,9 +1,9 @@
 {
-  "timestamp" : "2023-06-03T01:39:11Z",
+  "timestamp" : "2023-06-03T16:19:23Z",
   "count_outdated" : 1908,
   "uniques_outdated" : 1004,
-  "count" : 1932,
-  "uniques" : 1026,
+  "count" : 1935,
+  "uniques" : 1028,
   "views" : [
     {
       "timestamp": "2023-05-22T00:00:00Z",
@@ -67,6 +67,15 @@
       "uniques": 6,
       "uniques_minmax": [ 3, 6 ],
       "uniques_decinc": [ 0, 6 ]
+    },
+    {
+      "timestamp": "2023-06-03T00:00:00Z",
+      "count": 3,
+      "count_minmax": [ 3, 3 ],
+      "count_decinc": [ 0, 3 ],
+      "uniques": 2,
+      "uniques_minmax": [ 2, 2 ],
+      "uniques_decinc": [ 0, 2 ]
     }
   ]
 }
